@@ -1,2 +1,4 @@
-# gcn-for-text-classification
-Graph Convolutional Neural Networks for Text Classification
+# GCN for NLP tasks
+
+Using Graph Convolutional Neural Networks proposed by Kipf and Welling for text classification and other NLP tasks
+
